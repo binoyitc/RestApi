@@ -1,17 +1,17 @@
 package com.rest;
 
-import java.io.IOException;
+/*import java.io.IOException;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
-
-@Path("/shop")
+*/
+//@Path("/shop")
 public class TestRest {
 
 	//http://localhost:8080/NGDSDMISSO/rest/shop/products
-	@GET
+	/*@GET
     @Path("products")
     @Produces(MediaType.TEXT_PLAIN)
     public String test() throws IOException {
@@ -23,5 +23,5 @@ public class TestRest {
 			e.printStackTrace();
 		}
     	return result;
-    }	
+    }	*/
 }
